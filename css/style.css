@@ -285,6 +285,12 @@
   box-shadow: none !important;
   border: 0 !important;
 }
+
+/* button */
+.btn {
+  border: 0 !important;
+}
+
 @media (min-width: 768px) {
   .section__1__img {
     padding-top: 0;
