@@ -291,6 +291,8 @@
   border: 0 !important;
 }
 
+/* floating */
+
 @media (min-width: 768px) {
   .section__1__img {
     padding-top: 0;
