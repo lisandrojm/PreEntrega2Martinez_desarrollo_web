@@ -4,7 +4,7 @@
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
-  /*   height: 20em; */
+  height: 100vh;
   font-family: OpenSans, sans-serif;
 }
 .iframe {
