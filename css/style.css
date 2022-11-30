@@ -2,7 +2,7 @@
   background-color: #041250;
   background-image: url(../assets/img/background.jpg);
   background-position: center;
-  background-attachment:fixed;
+  background-attachment: fixed !important;
   background-repeat: no-repeat;
   background-size: cover;
   font-family: OpenSans, sans-serif;
@@ -294,6 +294,9 @@
 @media (min-width: 768px) {
   .section__1__img {
     padding-top: 0;
+  }
+  .body {
+    background-attachment: fixed;
   }
 }
 
