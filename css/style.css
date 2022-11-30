@@ -1,8 +1,10 @@
 .body {
-  background-image: url(../assets/img/background.jpg);
+  background-image: url(../assets/img/background_768px.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
+  background-position: center center;
+  background-color: #041250;
   font-family: OpenSans, sans-serif;
 }
 
@@ -292,6 +294,9 @@
 @media (min-width: 768px) {
   .section__1__img {
     padding-top: 0;
+  }
+  .body {
+    background-image: url(../assets/img/background.jpg);
   }
 }
 
