@@ -1,9 +1,9 @@
 .body {
   background-color: #041250;
   background-image: url(../assets/img/background.jpg);
+  background-position: center center;
   background-attachment:fixed;
   background-repeat: no-repeat;
-  background-position: center;
   background-size: cover;
   font-family: OpenSans, sans-serif;
 }
